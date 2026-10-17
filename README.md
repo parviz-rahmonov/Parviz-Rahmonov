@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**parviz-rahmonov/parviz-rahmonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Parviz Rahmonov
 
-Here are some ideas to get you started:
+### Python Developer | Telegram Bots & Business Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop Telegram bots and automation tools for businesses, focusing on practical solutions, databases, and maintainable code.
+
+**Tech Stack:** Python · aiogram 3 · SQL · PostgreSQL · Git · Linux
+
+**What I Build**
+- Telegram bots for businesses
+- Student and payment management systems
+- Customer registration and request processing bots
+- Database-driven automation tools
+
+**Currently Learning:** Backend development, software architecture, and software engineering best practices.
+
+**Location:** Tajikistan  
+**Open to:** Freelance projects and remote collaboration
+
+---
+
+# Привет! Я Парвиз Рахмонов
+
+### Python-разработчик | Telegram-боты и автоматизация бизнеса
+
+Разрабатываю Telegram-ботов и инструменты автоматизации для бизнеса. Основное внимание уделяю практическим решениям, работе с базами данных и поддерживаемому коду.
+
+**Технологии:** Python · aiogram 3 · SQL · PostgreSQL · Git · Linux
+
+**Чем занимаюсь**
+- Разработка Telegram-ботов для бизнеса
+- Системы учёта учеников и платежей
+- Боты для записи клиентов и обработки заявок
+- Автоматизация процессов с использованием баз данных
+
+**Сейчас изучаю:** Backend-разработку, архитектуру программ и инженерные практики.
+
+**Местоположение:** Таджикистан  
+**Сотрудничество:** Фриланс и удалённые проекты
+  
