@@ -1,4 +1,7 @@
 
+![Parviz Rahmonov | Python Developer](banner.png)
+
+
 # Hi, I'm Parviz Rahmonov
 
 ### Python Developer | Telegram Bots & Business Automation
